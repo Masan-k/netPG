@@ -1,6 +1,2 @@
 # network-programing
-# network-programing
-# network-programing
-# network-programing
-# network-programing
-# netPG
+通信対戦ゲームを作成するためのsocket検証コード置き場

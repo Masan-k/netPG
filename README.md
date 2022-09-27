@@ -4,7 +4,7 @@
 ## socket
 |ソース|概要|参考|
 ----|----|----
-|[echo-server-origin](socket/echo-server_origin)|[docs.python](https://docs.python.org/ja/3/library/socket.html#example)|
+|[echo-server-origin](socket/echo-server_origin)|Hallo world|[docs.python](https://docs.python.org/ja/3/library/socket.html#example)
 |dummy|dummy|dummy|
 
 

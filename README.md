@@ -5,7 +5,7 @@
 
 # CODE
 |SOURCE|ABOUT|REFERENCES|DATE UPDATE|
-----|----|----
+----|----|----|----
 |[echo-origin](socket/echo-origin)|Hello world|[docs.python](https://docs.python.org/ja/3/library/socket.html#example)|2022-10-10|
 |[input-loop](socket/input-loop)|input and loop|[GitHub-echo-origin](socket/input-loop)<br>[Qiita-Socket()とかBind()とかを理解する](https://qiita.com/Michinosuke/items/0778a5344bdf81488114)|2022-10-10|
 |[increment](socket/increment)|server integer increment|[GitHub-input-loop](socket/input-loop)|2022-10-10|

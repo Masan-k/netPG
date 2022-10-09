@@ -1,7 +1,7 @@
 # network-programing
 
 # ABOUT
-Posting the Python + socket code I wrote to create a communication game
+Posting the Python + socket code I wrote to create a communication game<br>
 通信対戦ゲームを作成するために書いたPython + socketのコードを掲載
 
 # CODE

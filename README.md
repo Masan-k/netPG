@@ -1,8 +1,7 @@
 # network-programing
 
 # ABOUT
-Posting the Python + socket code I wrote to create a communication game<br>
-通信対戦ゲームを作成するために書いたPython + socketのコードを掲載
+Posting the Python + socket code I wrote to create a communication game.<br>通信対戦ゲームを作成するために書いたPython + socketのコードを掲載
 
 # CODE
 |SOURCE|ABOUT|REFERENCES|DATE UPDATE|
@@ -12,3 +11,4 @@ Posting the Python + socket code I wrote to create a communication game<br>
 |[increment](socket/increment)|server integer increment|[GitHub:input-loop](socket/input-loop)|2022-10-10|
 |[first-UDP](socket/firstUdp)|Hello world(UDP)|[Pythonによるソケットプログラミング(UDP編) ](https://note-tech.com/python_socket_programming_udp/?preview=true)|2022-10-10|
 |[interactive](socket/interactive)|Two-way messaging|[GitHub:first-UDP](socket/firstUdp)|2022-10-10|
+|[interactive2](socket/interactive2)|Two-way move rect||2022-12-22|

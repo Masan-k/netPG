@@ -10,8 +10,8 @@ M_SIZE = 1024
 HOST = '127.0.0.1'
 PORT1 = 8890
 PORT2 = 8891
-FROM_ADDRESS = (HOST, PORT1)
-TO_ADDRESS = (HOST, PORT2)
+FROM_ADDRESS = (HOST, PORT1) #diff
+TO_ADDRESS = (HOST, PORT2)   #diff
 
 sock = socket.socket(socket.AF_INET, type=socket.SOCK_DGRAM)
 sock.bind(FROM_ADDRESS)
